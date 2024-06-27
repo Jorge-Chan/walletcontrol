@@ -1,4 +1,21 @@
+
 .form-container{
     max-width: 300px;
     padding: 1rem;
+}
+
+footer{
+    background-color: #33aa00;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+        text-align: center;
+}
+
+bt{ background-color:#33aa00;
+}
+
+nv{
+    background-color: #33aa00
+    ;
 }
